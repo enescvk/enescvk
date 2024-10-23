@@ -1,4 +1,4 @@
-## Hi, I am Enes Cevik.
+## Hi, I am Enes Cevik 👋
 
 I'm an Industrial Engineering graduate from Koç University, passionate about transforming data into valuable insights. My career journey began as a business analyst, but over time, I’ve transitioned into a data analyst role where I thrive on extracting, analyzing, and interpreting data to support informed business decisions.
 
